@@ -9,3 +9,11 @@ memulai pembelajaran
   - pemograman software dasar 
   - logika pemrograman
   - belajar git dengan github
+
+14 Agustus 2023
+on boarding msib batch 5 dengan kemdikbud
+
+15 Agustus
+on boarding bangkit academy
+finish study pemrograman dasar software
+finish study logika pemrograman
