@@ -15,6 +15,9 @@ Repository ini berisi mengenai pengalaman belajarku di dicoding
 **14 Agustus 2023**
 <br>on boarding msib batch 5 dengan kemdikbud
 
+**22 Agustus 2023**
+<br>buka coursera pake akun bangkit dong
+
 **15 Agustus 2023**
 <br>on boarding bangkit academy
 <ul>
