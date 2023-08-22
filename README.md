@@ -18,6 +18,15 @@ Repository ini berisi mengenai pengalaman belajarku di dicoding
 <br>finish study pemrograman dasar software
 <br>finish study logika pemrograman
 
+**16 Agustus 2023**
+<br>kickstart with bangkit
+
+**18 Agustus 2023**
+<br>sosialisasi platform with kampus merdeka
+
+**21 Agustus 2023**
+<br>baru semangat bangkit lagi
+
 **22 Agustus 2023**
 <br>buka coursera pake akun bangkit dong
 
