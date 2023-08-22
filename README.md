@@ -30,4 +30,5 @@ Repository ini berisi mengenai pengalaman belajarku di dicoding
 **22 Agustus 2023**
 <br>buka coursera pake akun bangkit dong
 
+AIUEOPS
 
