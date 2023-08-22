@@ -24,3 +24,5 @@ Repository ini berisi mengenai pengalaman belajarku di dicoding
 <l1>finish study pemrograman dasar software</l1>
 <l2>finish study logika pemrograman</l2>
 </ul>
+
+halooo
